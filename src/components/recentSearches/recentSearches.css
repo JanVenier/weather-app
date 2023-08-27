@@ -1,0 +1,43 @@
+.icon-go-to {
+
+    width: 16px;
+    opacity: 0.5;
+    margin-left: auto;
+}
+
+.recent-searches-entry {
+
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    padding: 6px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.recent-searches-entry:hover {
+
+    background-color: aliceblue;
+}
+
+.recent-searches {
+
+    list-style-type: none;
+    padding: 4px;
+    border: 1px solid hsl(0, 0%, 80%);
+    border-radius: 4px;
+    margin: 0;
+}
+
+.country-flag {
+
+    width: 20px;
+    opacity: 0.7;
+
+}
+
+.recent-searches-heading {
+
+    margin-bottom: 4px;
+    margin-top: 0;
+}
